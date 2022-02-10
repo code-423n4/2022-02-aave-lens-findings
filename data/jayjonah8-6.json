@@ -1,0 +1,9 @@
+{
+  "contest": 85,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "No guards against following the same profile multiple times ",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2022-02-aave-lens-findings/issues/6"
+}
