@@ -1,0 +1,9 @@
+{
+  "contest": 85,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "3",
+  "title": "Use of _mint instead of safeMint in function createProfile of LensHub.sol",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2022-02-aave-lens-findings/issues/69"
+}
