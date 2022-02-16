@@ -1,0 +1,9 @@
+{
+  "contest": 85,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "Collect modules can fail on zero amount transfers if treasury fee is set to zero",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2022-02-aave-lens-findings/issues/62"
+}
