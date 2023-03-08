@@ -1,3 +1,11 @@
+---
+sponsor: "Aave Lens"
+slug: "2022-02-aave-lens"
+date: "2022-06-13"
+title: "Aave Lens contest"
+findings: "https://github.com/code-423n4/2022-02-aave-lens-findings/issues"
+contest: 85
+---
 
 # Overview
 
